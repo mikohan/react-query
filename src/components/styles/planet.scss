@@ -17,3 +17,7 @@
 		color: #ffff57;
 	}
 }
+button:disabled {
+	opacity: 0.2;
+	cursor: not-allowed;
+}
