@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
+    "react-query": "^2.23.1",
     "react-scripts": "3.4.3"
   },
   "scripts": {
@@ -30,5 +31,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "sass": "^1.27.0",
+    "sass-loader": "^10.0.3"
   }
 }
